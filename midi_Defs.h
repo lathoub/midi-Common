@@ -1,8 +1,8 @@
 /*
  *  @file       midi_Defs.h
- *  Project     Arduino MIDI Library
- *  @brief      MIDI Library for the Arduino - Definitions
- *  @author     
+ *  @Project    midi Common
+ *  @brief      All the MIDI types and definitions
+ *  @author
  *  @date       
  *  @license    MIT - Copyright (c) 2019
  *
