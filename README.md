@@ -1,4 +1,4 @@
-# DEPRECATED
+# DEPRECATED - DO NOT USE - MARKED FOR DELETION
 ## Use: https://github.com/FortySevenEffects/arduino_midi_library
 
 # midi-Common
